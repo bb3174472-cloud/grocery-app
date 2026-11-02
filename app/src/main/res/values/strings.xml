@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بقالة الخير</string>
+    <string name="search_hint">ابحث عن منتج...</string>
+    <string name="add_to_cart">أضف للسلة</string>
+    <string name="cart_title">سلة المشتريات</string>
+    <string name="total_label">الإجمالي: </string>
+</resources>
